@@ -9,7 +9,7 @@ module.exports = {
         'work11': "url('/main/images/work11.png')",
         'work12': "url('/main/images/work12.png')",
         'work13': "url('/main/images/work13.png')",
-        // 'footer-texture': "url('/img/footer-texture.png')",
+        'backGround': "url('/main/images/background1.jpg')",
       },
       fontWeight: {
         extrabold: '800',
